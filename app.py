@@ -108,7 +108,7 @@ def main():
         st.write("6. Age of the Cardholder")
         st.html("<hr>")
 
-    "Fraudulent "
+
     amount = st.number_input("Amount")
     city_population = st.number_input("City Population",min_value=100,max_value=1000000)
     gender = st.selectbox("Gender",["Female","Male"])

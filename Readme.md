@@ -8,7 +8,7 @@ Programming Language: Python
 - **<u>pandas</u>** for data manipulation
 - **<u>plotly.express</u>** and seaborn for data visualization
 - **<u>scikit-learn</u>** for machine learning
-- **<u>pickle</u>**for model serialization
+- **<u>pickle</u>** for model serialization
 ### Installation Instructions
 - Clone the Repository:  
 - git clone https://github.com/yourusername/fraud-warden.git
